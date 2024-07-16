@@ -1,8 +1,0 @@
-
-
-1.ESP 8266(NODE MCU)
-2.MAX 30100(For Heart Beat and Spo2 Mesurement)
-3.DS18b20(Body Temperature)
-4.Breadbord
-5.Power supply
-6.4.7k ohm resister
